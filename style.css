@@ -1,12 +1,48 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
     width: 1400px;
+    margin: auto;
+}
+header{
+    width: 100%;
     height: 170px;
     background-image: url(./img/pattern.png);
-    background-color: lightskyblue;
+    background-color: #4ea0ff;
     background-size: auto;
 }
 
 #logo-booleaner{
     width: 20%;
     margin-top: 80px;
+}
+
+main{
+    margin: 10px;
+}
+
+h1{
+    font-size: 52px;
+}
+
+.title a {
+    color: #21a9e5 ;
+    text-decoration: none;
+}
+
+#data{
+    font-size: 10px;
+}
+
+.foto{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.foto p {
+    font-size: 10px;
 }
