@@ -1,0 +1,89 @@
+header{
+width: 100%;
+background-image: url(../img/pattern.png);
+background-color: #4ea0ff;
+}
+
+header img{
+width: 20%;
+margin-top: 80px;
+}
+
+main{
+margin: 10px;
+}
+
+h1{
+font-size: 40px;
+}
+
+.title a {
+color: #21a9e5 ;
+text-decoration: none;
+}
+
+#data{
+font-size: 10px;
+}
+
+.foto{
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+.foto p {
+font-size: 10px;
+}
+
+#underline{
+    background-color: yellow;
+
+}
+
+.content-list{
+    margin-top: 10px;
+}
+
+.content-table{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+th{
+    background-color: #21a9e5;
+    color: white;
+}
+
+tbody tr:nth-child(odd){
+    background-color: #b1e5f2;
+}
+
+.interest{
+    margin-top: 20px;
+    color: #818181;
+}
+
+.interest-photo{
+    margin-top: 10px;
+    width: 200px;
+    height: 150px;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.text{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+}
