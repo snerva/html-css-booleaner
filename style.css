@@ -1,0 +1,12 @@
+header{
+    width: 1400px;
+    height: 170px;
+    background-image: url(./img/pattern.png);
+    background-color: lightskyblue;
+    background-size: auto;
+}
+
+#logo-booleaner{
+    width: 20%;
+    margin-top: 80px;
+}
